@@ -187,8 +187,8 @@ Play with the program and observe how it reacts to user interactions.
   - Explain what you find.
 
 - Look at the function declarations in the `todos.js` file.
-	- Where is each function, actually called?
-	- When is each function, actually called?
+	- _Where_ is each function being called?
+	- _When_ is each function, actually called?
 	- What parameter(s) does that function have?
 	- What is the argument that is passed into the function when it is called?
 
