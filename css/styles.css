@@ -1,0 +1,22 @@
+html, body {
+	font-family: Helvetica;
+	padding: 50px;
+	font-size: 32px;
+}
+li {
+	cursor: pointer;
+}
+.complete {
+	text-decoration: line-through;
+	font-style: italic;
+	color: grey;
+}
+input, button {
+	font-size: 1rem;
+}
+a {
+	font-size: 50%;
+}
+i {
+	padding-right: 15px;
+}

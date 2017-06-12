@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Todo List</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/styles-alt.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+</head>
+<body>
+
+	<h1>TODO List</h1>
+
+	<ul id="todos">
+		<!-- ITEMS HERE -->
+	</ul>
+
+	<div class="controls">
+		<input type="text" onkeypress="onEnterKey(event)">
+		<button onclick="addTodoItem()">Add</button>
+		<button onclick="removeTodoItem()"><span id="counter"></span> Remove</button>
+	</div>
+	<a href="index-alt.html">Simple Version</a>
+
+	<script src="scripts/todos.js"></script>
+</body>
+</html>

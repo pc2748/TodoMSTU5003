@@ -1,0 +1,29 @@
+html, body {
+	background-color: #F5F5F5;
+}
+ul {
+	background-color: #FFF;
+	border: 1px solid #DDD;
+	list-style: none;
+	padding: 0;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
+li {
+	padding: 15px;
+	cursor: pointer;
+}
+li:not(:last-of-type) {
+	border-bottom: 1px solid #DDD;
+}
+input {
+	padding: 5px 15px;
+}
+button {
+	padding: 5px 15px;
+	border-radius: 4px;
+	cursor: pointer;
+}
+button[onclick="removeTodoItem()"]:not(:disabled) {
+	background-color: tomato;
+	color: #000;
+}
