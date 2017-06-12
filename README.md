@@ -4,7 +4,7 @@
 - See demonstration: https://jmk2142.github.io/TodoMSTU5003
 - Tinker Markdown (Prettier): https://hackmd.io/s/SkY3UWsMb
 
-For this week, the actual Markdown file is not available via Github Gists. I have included it within this week's Tinker repository along with the rest of the code. It is called `README.md`.
+For this week, the actual Markdown file is not available via Github Gists. I have included it within this week's Tinker repository along with the rest of the code. It is called `README.md`. You might want to `IMPORT` the markdown into hackmd.io to use that tool (recommended.)
 
 To get access to this code, and the actual Markdown to play with, you can use Github to CLONE the repository using the Github GUI Client. You can get the idea of what repositories are in my Youtube Video:
 
