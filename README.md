@@ -186,6 +186,12 @@ Play with the program and observe how it reacts to user interactions.
 - Try calling some of the functions directly from the console. Some will work. Some won't.
   - Explain what you find.
 
+- Look at the function declarations in the `todos.js` file.
+	- Where is each function, actually called?
+	- When is each function, actually called?
+	- What parameter(s) does that function have?
+	- What is the argument that is passed into the function when it is called?
+
 - Use the console (in Chrome devtools) to `console.log()` and `console.dir()` the following. What is the difference between `console.log` and `console.dir` and why is `console.dir` kind of more useful for looking at some kinds of data?
     ```javascript=
     console.log(data);
