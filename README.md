@@ -1,8 +1,8 @@
 # TINKER - Javascript Part II
 
-See repository: https://github.com/jmk2142/TodoMSTU5003
-See demonstration: https://jmk2142.github.io/TodoMSTU5003
-Tinker Markdown (Prettier): https://hackmd.io/s/SkY3UWsMb
+- See repository: https://github.com/jmk2142/TodoMSTU5003
+- See demonstration: https://jmk2142.github.io/TodoMSTU5003
+- Tinker Markdown (Prettier): https://hackmd.io/s/SkY3UWsMb
 
 For this week, the actual Markdown file is not available via Github Gists. I have included it within this week's Tinker repository along with the rest of the code. It is called `README.md`.
 
