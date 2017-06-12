@@ -406,3 +406,7 @@ Using the Chrome debugger (source) tool create breakpoints and watch the program
 - Be sure to copy blocks of code into this markdown using code formatting/fences as references to your explanations.
 - For repetitive code, you can explain how a line works then summarize how it would work for the rest.
 :::
+:::success
+- Try to extend this program to do something cool, as a group, your own original idea(s).
+	- What is something that a Todo list or todo list user might benefit from?
+:::
