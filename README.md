@@ -1,6 +1,42 @@
 # TINKER - Javascript Part II
 
-See demonstration: GITHUB LINK
+See repository: https://github.com/jmk2142/TodoMSTU5003
+See demonstration: https://jmk2142.github.io/TodoMSTU5003
+
+Tinker Markdown (Prettier): https://hackmd.io/s/SkY3UWsMb
+
+For this week, the actual Markdown file is not available via Github Gists. I have included it within this week's Tinker repository along with the rest of the code. It is called `README.md`.
+
+To get access to this code, and the actual Markdown to play with, you can use Github to CLONE the repository using the Github GUI Client. You can get the idea of what repositories are in my Youtube Video:
+
+## Github: How to clone my repository
+
+You'll want to start with the video overview:
+https://youtu.be/QOXhN90d9Mk?list=PLn93-yl6k7zUkSFNI8MQqmIVn017z8vKO
+
+Since you want to copy MY repository, once you have the Github GUI Client installed - you can do so with one click of a button. Just click on the Clone or download option, then **Open in Desktop** and that will automatically open it up in the Git GUI. (See Below)
+
+![Clone thorugh Github](https://i.imgur.com/onzsWMy.png)
+
+Keep in mind that since you are cloning my repository, you will only be able to commit changes to your local computer. You will not be able to _sync_ or _push_ changes to my Github repository - for obvious security reasons. (You wouldn't want just anyone to change YOUR code.)
+
+If you would like to use Github for your work in progress, what you can do is **_FORK_** my repository first. (See _FORK_ button under account picture.) This will create a copy of this repository under your account name in Github. You can clone YOUR version of this to your local computer, then commit and push to your account to your heart's content. :smiley_cat:
+
+---
+
+## Devtools
+You will also want to watch this video on the `console` as we will be using it extensively to Tinker this week.
+
+https://youtu.be/GAqOggzH_GE?list=PLn93-yl6k7zUkSFNI8MQqmIVn017z8vKO
+
+:::danger
+**NOTICE**
+
+I'm still in the process of creating a video on how to use the debugging tool.
+
+_Coming Soon !_
+:::
+
 
 ## Tinker GIST: TODOS
 
