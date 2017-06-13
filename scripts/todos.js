@@ -2,7 +2,7 @@
 var data = [
 	{
 		id: 1497141891479,
-		task: "Wake up",
+		task: "Study assiduously",
 		done: false
 	},
 	{
