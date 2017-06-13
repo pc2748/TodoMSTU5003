@@ -28,14 +28,12 @@ You will also want to watch this video on the `console` as we will be using it e
 
 https://youtu.be/GAqOggzH_GE?list=PLn93-yl6k7zUkSFNI8MQqmIVn017z8vKO
 
-:::danger
-**NOTICE**
+:::success
+**Demonstration and Youtube Video UPDATED**
 
-I'm still in the process of creating a video on how to use the debugging tool.
-
-_Coming Soon !_
+DEMO:    https://jmk2142.github.io/Debugger
+YOUTUBE: https://youtu.be/RdF7j4no0Ts
 :::
-
 
 ## Tinker GIST: TODOS
 
